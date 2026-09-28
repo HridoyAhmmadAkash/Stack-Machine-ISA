@@ -1,7 +1,7 @@
 # Stack Machine ISA: A Stack-Oriented Virtual Machine in C
 
-**Course:** CSE360 – Computer Architecture (Section 2)
-**Mini Project #8:** *Stack machine ISA: design a stack machine whose instruction set is stack oriented (no registers!) and supports basic integer arithmetic and logical operations only.*
+<!--**Course:** CSE360 – Computer Architecture (Section 2)-->
+<!--**Mini Project #8:** *Stack machine ISA: design a stack machine whose instruction set is stack oriented (no registers!) and supports basic integer arithmetic and logical operations only.*-->
 
 ---
 
