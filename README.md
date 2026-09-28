@@ -244,9 +244,9 @@ The assembler and VM report errors to `stderr`:
 - The `LOAD`/`STORE` operand is a fixed address, so there is no indirect addressing.
 - The program is embedded in the source file and there is no command-line assembly file loader.
 
-## Author
+<!--## Author
 
 **Name:** _Your Name_
 **Student ID:** _Your ID_
 **Course:** CSE360 – Computer Architecture, Section 2
-**University:** East West University
+**University:** East West University-->
